@@ -8,5 +8,7 @@ Download this app
 
 Run this command on your terminal :  
 $ cd perpus-ruby-rails
+
 $ bin/rake db:migrate
+
 $ bin/rails server
