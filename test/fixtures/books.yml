@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
+  name: MyString
   author: MyString
-  publisher: MyString
+  resensi: MyText
   year: 1
 
 two:
-  title: MyString
+  name: MyString
   author: MyString
-  publisher: MyString
+  resensi: MyText
   year: 1

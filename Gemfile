@@ -1,3 +1,7 @@
+# Perpus Web App
+# asharijuang.com
+# asharijuang@me.com
+
 source 'https://rubygems.org'
 
 
